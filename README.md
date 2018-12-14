@@ -1,7 +1,11 @@
 # Replica-Management-and-Consistency
 
 • Each client process will connect to the server over a socket connection and register a user name at the server. 
+
+
 • The server is able to handle all three clients concurrently and display the names of the connected clients in real time.
+
+
 • Each client will implement a simple four-function calculator.
 
 The client will execute the following sequence of steps:
